@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-123 khong dc sua file nay
-=======
 file nay da bi sua tu branch hoanghung
->>>>>>> origin/dev
